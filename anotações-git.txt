@@ -1,0 +1,10 @@
+git diff = mostrar alterações no código.
+
+z = sai do git diff
+ctrl + z = sai do git diff
+
+q = volta ao normal o prompt
+
+git restore .(nome do arquivo com extensão) = desfaz as modificações que foram feitas antes.
+
+git restore --staged = desfaz do estado de modificado.
